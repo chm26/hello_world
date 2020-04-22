@@ -1,7 +1,7 @@
 Rf 433 transceiver
 
 - Ti CC1101
-
+- RFM69
 - Si4432 / Si4462
 https://www.appconwireless.com/shownews.php?id=95
 
