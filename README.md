@@ -3,7 +3,7 @@
 |Module	| Chip |	RX	| TX	| Modulation	|Alim	|Interface |	Autre|
 |-------|------|----|----|------------|-----|----------|------|
 |SRX882	|PT4303|-107/-110dBm 2,9mA  |  |ASK, OOK	| 3-5V	| | |	
-|RXB6		 |SYN500R (SYN470?) |-109dBm (-116dBm ?) 6mA |		|ASK, OOK	| 3-5V	| |	RSSI |
+|RXB6		 |SYN500R |-109dBm (-116dBm ?) 6mA |		|ASK, OOK	| 3-5V	| |	RSSI - DER Pin Config: R6= Data, R7= RSSI, R5= Shutdown|
 |Ti CC1101|	CC1101	|-110dBm 15,6mA | +10dBm 29mA|	2-FSK, GFSK, MSK	| 3,3V		| | | |
 |RFM69W/CW |	SX1231	| -120dBm 16mA | +13dBm 45mA max| FSK, GFSK, MSK, GMSK, OOK| 3,3V | SPI	| |
 |RFM69HW/HCW	| SX1231H	|-120dBm 16mA |+20dBm 130mA max|	FSK, GFSK, MSK, GMSK, OOK| 3,3V |	SPI	| HCW - module size is: 16 x 16 mm (comp. RFM22B) <br/> HW - module size is: 16 x 19.7 mm <br/> http://forum.anarduino.com/posts/list/5.page |
